@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">set3ChenJiaYung</string>
+    <string name="regnoLbl">Student Nunmber</string>
+    <string name="instituteLbl">Institute</string>
+    <string name="cgpaLbl">Current CGPA</string>
+    <string name="classLbl">Classification of Honour</string>
+    <string name="eligibilityText" />
+    <string name="submit">Submit</string>
+    <string-array name="instituteGroup">
+        <item>Tunku Abdul Rahman University College</item>
+        <item>University Science Malaysia</item>
+        <item>University Technology Malaysia</item>
+        <item>Sunway University</item>
+    </string-array>
+</resources>
